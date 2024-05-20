@@ -4,4 +4,5 @@ This project aims to automatically detect brain tumors using medical images. Bra
 In this project, a convolutional neural network (CNN) model has been developed to detect brain tumors using deep learning methods. Using this model, artificial intelligence has been trained to detect brain tumors.
 
 Dataset --> https://drive.google.com/drive/folders/17ny9IpdaZ5hBhFX5AZJVl4kHZYU4Gqrz
+
 Colab Link --> https://colab.research.google.com/drive/1uJuL1po47EgHl4m3MUXVCdq7KzEfB2VH?usp=sharing
