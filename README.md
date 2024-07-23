@@ -353,27 +353,13 @@ Correct Predictions: 90/100
 
 Below are some example images and Grad-CAM visualizations:
 
-### Example 1: MRI Image with Tumor
+![example](indir.png)
 
-![Example MR Image with Tumor](images/example_tumor_image.jpg)
+![example1](indir (1).png)
 
-*Original MRI image showing a tumor.*
+![example2](indir (2).png)
 
-### Grad-CAM Heatmap
-
-![Grad-CAM Heatmap for Tumor](images/grad_cam_tumor_image.jpg)
-
-*Grad-CAM visualization highlighting the tumor region.*
-
-### Example 2: Healthy MRI Image
-
-![Example Healthy MR Image](images/example_healthy_image.jpg)
-
-*Original MRI image showing no tumor.*
-
-### Grad-CAM Heatmap
-
-![Grad-CAM Heatmap for Healthy Image](images/grad_cam_healthy_image.jpg)
+![example3](indir (3).png)
 
 *Grad-CAM visualization indicating no significant activation for tumor presence.*
 
