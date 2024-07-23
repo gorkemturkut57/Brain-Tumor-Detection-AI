@@ -347,6 +347,25 @@ Model Prediction: Healthy
 
 Correct Predictions: 90/100
 ```
+## Examples
+
+Below are some example images and Grad-CAM visualizations:
+
+### Example 1:Validation Accuracy Tables
+
+![Validation Accuracy Table](examples/example.png)
+
+### Training&Validation Accuracy Table
+
+![Training&Validation Accuracy Tables](examples/example2.png)
+
+### Confusion Matrix Table
+
+![Confusion Matrix Table](examples/example3.png)
+
+### Tumor Detection Example
+
+![Tumor Detection Example](examples/example4.png)
 
 ## Future Work
 
