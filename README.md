@@ -13,9 +13,8 @@ This repository contains a deep learning project aimed at detecting brain tumors
 7. [Visualizing Tumor Regions](#visualizing-tumor-regions)
 8. [Evaluation Metrics](#evaluation-metrics)
 9. [Results](#results)
-10. [Examples](#examples)
-11. [Future Work](#future-work)
-12. [Contributing](#contributing)
+10. [Future Work](#future-work)
+11. [Contributing](#contributing)
 
 ## Project Overview
 
@@ -348,20 +347,6 @@ Model Prediction: Healthy
 
 Correct Predictions: 90/100
 ```
-
-## Examples
-
-Below are some example images and Grad-CAM visualizations:
-
-![example](indir.png)
-
-![example1](indir (1).png)
-
-![example2](indir (2).png)
-
-![example3](indir (3).png)
-
-*Grad-CAM visualization indicating no significant activation for tumor presence.*
 
 ## Future Work
 
