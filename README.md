@@ -2,8 +2,6 @@
 
 This repository contains a deep learning project aimed at detecting brain tumors from MRI images. The project implements a Convolutional Neural Network (CNN) for classification and utilizes Grad-CAM for visualizing the tumor regions. Additionally, a pre-trained VGG16 model is used to enhance predictions and interpretability.
 
-Link:https://colab.research.google.com/drive/1uJuL1po47EgHl4m3MUXVCdq7KzEfB2VH#scrollTo=uyY_Eec4lpsr
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
