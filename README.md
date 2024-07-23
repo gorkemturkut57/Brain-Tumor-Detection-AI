@@ -351,7 +351,7 @@ Correct Predictions: 90/100
 
 Below are some example images and Grad-CAM visualizations:
 
-### Example 1:Validation Accuracy Tables
+### Validation Accuracy Tables
 
 ![Validation Accuracy Table](examples/example.png)
 
