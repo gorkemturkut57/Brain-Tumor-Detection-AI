@@ -355,11 +355,11 @@ Below are some example images and Grad-CAM visualizations:
 
 ![example](indir.png)
 
-![example1](indir (1).png)
+![example1](indir(1).png)
 
-![example2](indir (2).png)
+![example2](indir(2).png)
 
-![example3](indir (3).png)
+![example3](indir(3).png)
 
 *Grad-CAM visualization indicating no significant activation for tumor presence.*
 
