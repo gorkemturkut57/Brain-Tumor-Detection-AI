@@ -1,4 +1,7 @@
-# Brain Tumor Detection from MRI Images
+# Brain Tumor Detection
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.7%2B-green.svg)](https://www.python.org/downloads/release/python-370/)
 
 This repository contains a deep learning project aimed at detecting brain tumors from MRI images. The project implements a Convolutional Neural Network (CNN) for classification and utilizes Grad-CAM for visualizing the tumor regions. Additionally, a pre-trained VGG16 model is used to enhance predictions and interpretability.
 
